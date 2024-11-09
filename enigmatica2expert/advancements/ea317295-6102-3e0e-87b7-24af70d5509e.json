@@ -1,0 +1,3927 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-01-08 04:53:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/hydra": {
+    "criteria": {
+      "hurt": "2024-01-19 17:09:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/wireless_modem": {
+    "criteria": {
+      "has_advanced": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-01-07 21:36:57 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:fission/neptunium": {
+    "criteria": {
+      "has_item": "2024-01-17 03:02:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "head": "2024-01-14 20:15:36 +0300",
+      "feet": "2024-03-10 19:08:16 +0300",
+      "chest": "2024-03-10 14:02:35 +0300",
+      "legs": "2024-01-13 21:24:26 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-01-08 04:53:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2024-01-18 19:33:02 +0300"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2024-01-07 20:21:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2024-01-16 18:34:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "kill_mob": "2024-01-19 16:49:57 +0300",
+      "naga": "2024-01-19 16:53:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/pressurizer": {
+    "criteria": {
+      "has_item": "2024-03-09 21:43:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-01-08 04:13:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-03-08 17:26:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:28:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-01-08 04:53:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-03-08 02:50:22 +0300"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "code_triggered": "2024-01-14 20:09:48 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-01-07 20:21:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-01-07 21:28:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-08 14:43:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-01-13 20:49:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-01-13 19:35:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-01-09 20:24:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-01-07 21:28:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-01-17 18:09:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-01-20 03:06:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2024-03-10 13:09:57 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-01-13 17:43:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-01-08 15:34:05 +0300"
+    },
+    "done": true
+  },
+  "botania:challenge/odin_ring": {
+    "criteria": {
+      "ring": "2024-03-08 00:38:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2024-01-08 14:29:16 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_anemone": {
+    "criteria": {
+      "has_flower": "2024-01-08 21:03:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-01-08 15:19:44 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/goblins": {
+    "criteria": {
+      "2": "2024-01-19 17:15:11 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/large_hollow_hill": {
+    "criteria": {
+      "discover": "2024-01-19 19:03:06 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:fission/rtg_californium": {
+    "criteria": {
+      "has_item": "2024-01-14 01:31:18 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:item/1_item_conduit": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit": "2024-11-08 01:00:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-01-08 04:30:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-01-08 15:34:46 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/rock_crusher": {
+    "criteria": {
+      "has_item": "2024-01-17 02:55:56 +0300"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/crystalline": {
+    "criteria": {
+      "warp": "2024-03-03 16:28:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-01-08 04:53:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-01-08 21:08:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-03-10 14:00:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-01-07 21:36:57 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:start/1_binder_composite": {
+    "criteria": {
+      "inv_changed-enderio:binder_composite": "2024-11-08 00:59:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2024-03-08 02:50:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2024-01-08 04:44:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-01-13 18:01:33 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2024-01-14 22:17:47 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/naga": {
+    "criteria": {
+      "hurt": "2024-01-19 16:53:31 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2024-01-20 03:19:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:28:12 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2024-03-03 19:48:02 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:item/3_advanced_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_advanced_item_filter": "2024-11-08 00:58:48 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/dense_twilight_forest": {
+    "criteria": {
+      "discover": "2024-01-19 17:39:01 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:root": {
+    "criteria": {
+      "inv_changed-enderio:gravel": "2024-01-08 03:37:10 +0300",
+      "inv_changed-enderio:clay": "2024-01-08 03:35:32 +0300",
+      "inv_changed-enderio:sand": "2024-01-08 03:38:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2024-01-08 15:34:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-01-08 04:13:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-01-08 15:34:46 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/scepters": {
+    "criteria": {
+      "2": "2024-01-19 16:56:25 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/cable_glass": {
+    "criteria": {
+      "certus": "2024-01-09 20:59:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-01-13 17:58:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:fission/plutonium": {
+    "criteria": {
+      "has_item": "2024-01-17 03:02:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2024-01-07 21:23:33 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
+    "criteria": {
+      "has_planks": "2024-01-20 03:19:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2024-05-22 21:50:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2024-01-08 14:43:49 +0300"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-01-09 17:01:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2024-01-13 19:02:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2024-01-22 18:58:54 +0300"
+    },
+    "done": true
+  },
+  "astralsorcery:perk_level_medium": {
+    "criteria": {
+      "gain_perk_level_medium": "2024-03-09 20:58:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-01-07 21:12:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-01-08 04:53:29 +0300"
+    },
+    "done": true
+  },
+  "rftools:specialores": {
+    "criteria": {
+      "find_ores": "2024-01-25 21:24:00 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
+    "criteria": {
+      "has_planks": "2024-01-20 03:19:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-01-15 18:34:16 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/brown_dye_from_cattail": {
+    "criteria": {
+      "has_flower": "2024-01-08 20:59:41 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-01-19 16:56:19 +0300",
+      "trophy_pedestal": "2024-01-19 17:14:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-03-03 21:00:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-01-08 03:38:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-01-08 14:18:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-01-08 05:06:39 +0300"
+    },
+    "done": true
+  },
+  "plethora:recipes/keyboard": {
+    "criteria": {
+      "has_computer": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:28:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-01-13 21:30:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/electrolyser": {
+    "criteria": {
+      "has_item": "2024-01-17 18:11:39 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-01-13 19:02:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-01-07 20:44:38 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
+    "criteria": {
+      "has_log": "2024-01-08 20:59:41 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/ironwood_tool_set": {
+    "criteria": {
+      "ingredien2": "2024-01-19 16:59:23 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/nuclear_furnace": {
+    "criteria": {
+      "has_item": "2024-01-16 22:49:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-01-08 19:47:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-01-13 19:07:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-01-08 04:55:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2024-01-08 04:53:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_pigman": "2024-01-08 05:20:47 +0300",
+      "shulker": "2024-03-07 20:25:57 +0300",
+      "wither_skeleton": "2024-01-14 02:14:01 +0300",
+      "zombie_villager": "2024-01-07 21:11:09 +0300",
+      "magma_cube": "2024-03-03 16:44:41 +0300",
+      "skeleton": "2024-01-08 05:46:32 +0300",
+      "husk": "2024-03-08 15:44:30 +0300",
+      "blaze": "2024-01-08 20:50:47 +0300",
+      "zombie": "2024-01-07 21:11:25 +0300",
+      "silverfish": "2024-01-13 18:27:49 +0300",
+      "cave_spider": "2024-01-19 17:02:53 +0300",
+      "witch": "2024-01-08 14:23:08 +0300",
+      "spider": "2024-01-08 19:38:58 +0300",
+      "ghast": "2024-01-15 18:34:16 +0300",
+      "creeper": "2024-01-08 04:29:41 +0300",
+      "enderman": "2024-01-13 17:45:04 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-01-08 21:03:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-03-06 02:44:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2024-01-08 04:55:03 +0300"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/root": {
+    "criteria": {
+      "crafting_table": "2024-01-08 14:05:25 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/speed_upgrade": {
+    "criteria": {
+      "has_item": "2024-01-16 22:37:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
+    "criteria": {
+      "has_planks": "2024-01-20 03:19:14 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_armor_set": {
+    "criteria": {
+      "chestplate": "2024-01-13 20:28:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2024-01-14 20:12:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-08 04:30:54 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tc_aspects": {
+    "criteria": {
+      "crystal_essence": "2024-01-08 05:28:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-03-10 14:00:53 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/naga_armor_set": {
+    "criteria": {
+      "ingredient": "2024-01-19 16:53:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:fission/rtg_americium": {
+    "criteria": {
+      "has_item": "2024-01-08 19:22:47 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/mud": {
+    "criteria": {
+      "has_item": "2024-01-08 20:59:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-03-09 21:57:02 +0300"
+    },
+    "done": false
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "raven": "2024-01-19 16:49:57 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/sapphire_block": {
+    "criteria": {
+      "has_at_least_9_gems": "2024-01-17 23:25:59 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/meef": {
+    "criteria": {
+      "raw": "2024-01-19 16:59:52 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/raven": {
+    "criteria": {
+      "hurt": "2024-01-19 16:49:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-01-13 18:27:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2024-01-08 05:02:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/hydra_chop": {
+    "criteria": {
+      "food": "2024-01-19 17:11:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-01-14 22:17:47 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/naga_courtyard": {
+    "criteria": {
+      "discover": "2024-01-19 16:53:18 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/interface": {
+    "criteria": {
+      "certus": "2024-01-13 22:30:29 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/multiblock_blastfurnace": {
+    "criteria": {
+      "form_blastfurnace": "2024-01-08 21:04:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2024-01-08 04:56:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-01-08 20:50:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-01-13 18:56:35 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/yeti": {
+    "criteria": {
+      "slay": "2024-03-10 15:32:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/minoshroom": {
+    "criteria": {
+      "hurt": "2024-01-19 17:05:44 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2024-03-09 21:03:54 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/ie_shaders": {
+    "criteria": {
+      "ie_shader_bag": "2024-01-13 19:07:16 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-01-15 18:12:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2024-01-08 04:56:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/minotaur_axe_diamond": {
+    "criteria": {
+      "axe": "2024-01-19 17:05:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-03-06 02:02:52 +0300"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/suitedup": {
+    "criteria": {
+      "suited": "2024-03-08 02:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-01-08 15:34:05 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/vension": {
+    "criteria": {
+      "raw": "2024-01-19 17:50:42 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/thornlands": {
+    "criteria": {
+      "discover": "2024-01-20 18:56:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/minotaur_axes": {
+    "criteria": {
+      "diamond": "2024-01-19 17:05:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-01-13 21:30:25 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/smoking_block": {
+    "criteria": {
+      "fire_swamp": "2024-01-19 17:09:05 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-01-08 04:00:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:28:12 +0300"
+    },
+    "done": true
+  },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-01-13 18:59:08 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/lich": {
+    "criteria": {
+      "hurt_by_indirect": "2024-01-19 16:55:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-01-08 03:35:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2024-01-13 22:54:58 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
+    "criteria": {
+      "has_planks": "2024-01-20 03:19:14 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:food/marshmallow": {
+    "criteria": {
+      "has_item": "2024-01-07 21:15:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:28:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-01-07 21:28:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-01-13 18:01:33 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_cherry": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-01-09 17:01:45 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:multiblock/salt_fission_controller": {
+    "criteria": {
+      "has_item": "2024-04-10 20:29:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-01-08 14:05:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:28:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-08 14:43:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-01-08 14:59:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-01-14 19:36:45 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/storage_bus": {
+    "criteria": {
+      "part": "2024-03-06 19:43:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-01-13 18:01:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-01-08 04:53:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-01-08 04:30:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-01-13 21:30:25 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "map": "2024-01-19 16:52:27 +0300"
+    },
+    "done": true
+  },
+  "botania:main/gaia_guardian_kill": {
+    "criteria": {
+      "guardian": "2024-03-06 02:09:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-01-08 05:46:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/firefly_forest": {
+    "criteria": {
+      "discover": "2024-01-19 16:44:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-01-08 04:17:07 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2024-01-19 17:11:11 +0300"
+    },
+    "done": false
+  },
+  "advancedrocketry:normal/spindoctor": {
+    "criteria": {
+      "warp": "2024-03-03 16:28:57 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "logic": "2024-01-08 15:29:32 +0300",
+      "eng": "2024-01-08 15:29:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:33:06 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/mushroom_forest": {
+    "criteria": {
+      "discover": "2024-01-19 16:52:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-01-08 05:53:44 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_tool_set": {
+    "criteria": {
+      "ingredien3": "2024-01-14 04:32:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/goblin_knight": {
+    "criteria": {
+      "hurt_by_indirect": "2024-01-19 17:15:11 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/charm_of_life": {
+    "criteria": {
+      "1": "2024-01-19 17:23:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-01-17 04:13:59 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hollow_hills": {
+    "criteria": {
+      "2": "2024-01-19 19:03:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2024-01-08 04:39:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/rollin": {
+    "criteria": {
+      "warp": "2024-03-03 16:28:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie_villager": "2024-01-07 21:11:09 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-08 14:43:49 +0300"
+    },
+    "done": true
+  },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2024-01-14 19:32:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-01-13 20:14:47 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2024-01-19 17:14:49 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-01-08 21:03:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2024-01-09 21:54:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2024-01-08 15:34:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2024-01-07 21:14:42 +0300",
+      "swampland": "2024-01-09 20:14:51 +0300",
+      "birch_forest": "2024-03-09 21:05:57 +0300",
+      "deep_ocean": "2024-01-08 04:38:11 +0300",
+      "beaches": "2024-01-07 21:21:14 +0300",
+      "desert_hills": "2024-03-06 18:54:10 +0300",
+      "mesa": "2024-01-09 20:24:24 +0300",
+      "forest_hills": "2024-01-09 16:56:27 +0300",
+      "plains": "2024-01-07 20:21:35 +0300",
+      "jungle_edge": "2024-01-08 19:37:28 +0300",
+      "jungle_hills": "2024-03-08 02:50:09 +0300",
+      "savanna": "2024-03-08 19:39:09 +0300",
+      "taiga": "2024-01-09 20:16:51 +0300",
+      "redwood_taiga": "2024-03-09 21:03:15 +0300",
+      "taiga_hills": "2024-01-09 20:16:48 +0300",
+      "redwood_taiga_hills": "2024-03-09 21:03:14 +0300",
+      "taiga_cold": "2024-01-09 20:20:49 +0300",
+      "ocean": "2024-01-08 04:33:30 +0300",
+      "extreme_hills": "2024-01-09 20:20:57 +0300",
+      "roofed_forest": "2024-01-07 21:24:57 +0300",
+      "cold_beach": "2024-01-09 20:24:19 +0300",
+      "river": "2024-01-07 21:21:10 +0300",
+      "jungle": "2024-01-17 20:37:21 +0300",
+      "desert": "2024-01-09 20:25:27 +0300",
+      "stone_beach": "2024-01-09 21:20:26 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:33:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-01-08 05:23:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-01-17 18:09:54 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-01-19 17:08:15 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "meef": "2024-01-19 17:06:27 +0300",
+      "kill_lich": "2024-01-19 16:56:19 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_blood_tears": {
+    "criteria": {
+      "armor": "2024-01-13 21:24:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-01-07 21:36:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-01-07 21:36:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-01-07 21:26:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-01-07 21:36:57 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_armor_set": {
+    "criteria": {
+      "leggings": "2024-01-13 21:24:26 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/alloy_furnace": {
+    "criteria": {
+      "has_item": "2024-01-16 22:24:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-01-07 21:12:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-01-08 05:53:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-01-08 04:13:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2024-01-08 04:56:25 +0300"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2024-01-08 03:54:57 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2024-01-08 04:14:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-01-13 19:08:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-03-10 14:00:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2024-01-08 04:57:28 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "place_conveyor": "2024-01-15 18:46:22 +0300"
+    },
+    "done": true
+  },
+  "botania:challenge/thor_ring": {
+    "criteria": {
+      "ring": "2024-03-06 03:03:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-01-08 05:02:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-03-07 20:26:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2024-01-08 04:56:26 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2024-01-08 05:07:08 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/printer": {
+    "criteria": {
+      "has_advanced": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2024-03-08 02:50:22 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2024-01-08 05:07:08 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/tools": {
+    "criteria": {
+      "1": "2024-01-07 21:36:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-01-17 04:13:59 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2024-03-04 20:50:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-01-17 16:59:41 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/labyrinth": {
+    "criteria": {
+      "discover": "2024-01-19 16:58:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_bone_block": "2024-01-13 20:19:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-01-17 04:43:42 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_glacier": {
+    "criteria": {
+      "discover": "2024-03-09 22:02:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/charm_of_keeping": {
+    "criteria": {
+      "1": "2024-01-19 17:01:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2024-01-08 03:31:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-01-10 18:01:41 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2024-01-20 03:19:14 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/ender_modem": {
+    "criteria": {
+      "has_advanced": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-01-07 21:36:57 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2024-01-09 22:27:21 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/skull_dan200": {
+    "criteria": {
+      "has_advanced": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-01-08 21:03:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2024-03-10 13:09:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2024-01-13 20:14:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/advanced_turtle": {
+    "criteria": {
+      "has_advanced": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/trophies": {
+    "criteria": {
+      "1": "2024-01-19 16:53:56 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/maze_wafer": {
+    "criteria": {
+      "food": "2024-03-10 13:09:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2024-03-10 13:09:57 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-01-13 21:30:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2024-01-09 21:54:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2024-01-19 19:17:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-01-08 14:05:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:28:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-01-07 21:14:03 +0300"
+    },
+    "done": true
+  },
+  "astralsorcery:find_constellation": {
+    "criteria": {
+      "bright_constellation_discovered": "2024-03-06 17:54:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2024-01-19 19:17:23 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/yeti_lairs": {
+    "criteria": {
+      "discover": "2024-03-09 21:56:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-01-08 05:19:47 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/yeti_alpha": {
+    "criteria": {
+      "hurt": "2024-03-09 21:56:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
+    "criteria": {
+      "has_planks": "2024-01-20 03:19:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-01-17 04:13:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-01-17 17:08:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-08 14:43:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-01-07 21:12:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:28:12 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fire_jet": {
+    "criteria": {
+      "fire_swamp": "2024-01-19 17:09:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/maze_slime": {
+    "criteria": {
+      "hurt_by_indirect": "2024-01-19 17:04:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/amber_block": {
+    "criteria": {
+      "has_at_least_9_gems": "2024-03-08 17:40:21 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/mahogany_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-01-20 03:19:14 +0300"
+    },
+    "done": true
+  },
+  "botania:main/manaweave_armor_craft": {
+    "criteria": {
+      "head": "2024-01-19 19:22:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-01-08 04:55:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:28:12 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/crafting_cpu": {
+    "criteria": {
+      "c4k": "2024-01-13 22:26:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-01-08 04:55:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-01-08 04:53:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-01-08 03:37:34 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:fission/fission_controller": {
+    "criteria": {
+      "has_item": "2024-01-13 18:36:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-01-17 04:12:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-01-08 14:41:04 +0300"
+    },
+    "done": true
+  },
+  "botania:challenge/flugel_eye": {
+    "criteria": {
+      "eye": "2024-03-08 16:00:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "botania:main/elf_portal_open": {
+    "criteria": {
+      "portal": "2024-03-03 22:44:12 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/normal_monitor": {
+    "criteria": {
+      "has_advanced": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-08 14:43:49 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/infuser": {
+    "criteria": {
+      "has_item": "2024-01-17 03:18:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-01-09 20:19:51 +0300",
+      "cooked_mutton": "2024-01-13 17:51:28 +0300",
+      "cooked_beef": "2024-01-08 20:45:14 +0300",
+      "baked_potato": "2024-01-08 05:04:15 +0300",
+      "apple": "2024-01-07 21:21:19 +0300",
+      "cooked_cod": "2024-01-08 04:26:54 +0300",
+      "bread": "2024-01-08 04:17:47 +0300",
+      "golden_apple": "2024-03-06 02:28:47 +0300",
+      "rotten_flesh": "2024-01-07 21:12:03 +0300",
+      "cooked_chicken": "2024-01-08 21:51:19 +0300",
+      "enchanted_golden_apple": "2024-03-06 02:58:26 +0300",
+      "carrot": "2024-01-07 21:12:52 +0300"
+    },
+    "done": false
+  },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "1": "2024-01-19 16:44:38 +0300"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/blockpresser": {
+    "criteria": {
+      "warp": "2024-03-03 15:27:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-01-07 21:28:15 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/charms": {
+    "criteria": {
+      "1": "2024-01-19 17:01:27 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-03-08 19:48:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/dark_forest": {
+    "criteria": {
+      "0": "2024-01-19 17:13:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/9_white": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-01-09 20:58:59 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "dark_log": "2024-03-10 13:03:42 +0300",
+      "dark_sapling": "2024-03-10 13:39:47 +0300",
+      "canopy_sapling": "2024-01-14 21:35:11 +0300",
+      "twilight_oak_sapling": "2024-01-19 16:53:31 +0300",
+      "liveroot": "2024-01-20 18:59:32 +0300",
+      "robust_oak_sapling": "2024-01-09 21:41:11 +0300",
+      "liveroots": "2024-01-19 16:58:25 +0300",
+      "root": "2024-01-20 18:56:35 +0300"
+    },
+    "done": false
+  },
+  "enderioconduits:item/4_big_advanced_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_big_advanced_item_filter": "2024-11-08 01:04:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2024-01-07 20:21:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/maps": {
+    "criteria": {
+      "0": "2024-01-19 16:52:11 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-01-08 04:53:07 +0300"
+    },
+    "done": true
+  },
+  "astralsorcery:attune_self": {
+    "criteria": {
+      "attune_self_major": "2024-03-07 22:35:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2024-01-07 21:12:31 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "pattern": "2024-01-07 21:28:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2024-01-19 19:17:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-08 14:43:49 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charger": {
+    "criteria": {
+      "certus": "2024-01-09 17:50:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-01-08 04:53:29 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "hydra": "2024-01-19 17:11:11 +0300",
+      "stroganoff": "2024-01-19 17:06:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-01-08 04:29:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-01-17 04:02:24 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/advanced_monitor": {
+    "criteria": {
+      "has_advanced": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/magic_map": {
+    "criteria": {
+      "magic_map_empty": "2024-01-19 16:52:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-01-08 15:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-01-08 04:53:29 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-01-08 15:22:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_pickup": {
+    "criteria": {
+      "terrasteel": "2024-03-03 17:10:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_chicken": "2024-01-13 20:12:53 +0300"
+    },
+    "done": false
+  },
+  "nuclearcraft:fusion/fusion_core": {
+    "criteria": {
+      "has_item": "2024-03-10 15:59:41 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_forest": {
+    "criteria": {
+      "discover": "2024-01-19 16:52:48 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/zombie_scepter": {
+    "criteria": {
+      "scepter": "2024-01-19 16:56:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/skull_cloudy": {
+    "criteria": {
+      "has_advanced": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/fire_beetle": {
+    "criteria": {
+      "hurt": "2024-01-19 16:59:15 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/oak_savannah": {
+    "criteria": {
+      "discover": "2024-01-19 17:26:21 +0300"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/holographic": {
+    "criteria": {
+      "warp": "2024-01-08 19:31:15 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_clearing": {
+    "criteria": {
+      "discover": "2024-01-19 17:48:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-01-07 21:36:57 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
+    "criteria": {
+      "has_flower": "2024-01-08 04:20:39 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/animals": {
+    "criteria": {
+      "3": "2024-01-19 16:49:57 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-20 03:19:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-01-17 04:12:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-01-07 21:28:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-01-07 21:12:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-01-08 04:39:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2024-01-08 14:00:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit2": "2024-11-08 01:00:50 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-08 14:43:49 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/hedge_spider": {
+    "criteria": {
+      "hurt_by_indirect": "2024-01-19 19:05:51 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/cable": {
+    "criteria": {
+      "has_advanced": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-01-08 05:10:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-01-08 15:34:05 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/manufactory": {
+    "criteria": {
+      "has_item": "2024-01-13 22:42:08 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/blockchain_goblin": {
+    "criteria": {
+      "hurt_by_indirect": "2024-01-19 17:15:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "astralsorcery:perk_level_small": {
+    "criteria": {
+      "gain_perk_level_small": "2024-03-07 22:40:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/salt_mixer": {
+    "criteria": {
+      "has_item": "2024-01-16 22:48:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-01-13 17:54:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-01-08 04:13:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-01-07 21:36:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-01-08 04:39:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-01-08 04:55:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-01-08 14:59:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-08 04:30:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-01-08 04:55:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "craft_hammer": "2024-01-09 17:59:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-01-08 05:19:47 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_pump": {
+    "criteria": {
+      "craft_hammer": "2024-01-08 15:34:58 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/melter": {
+    "criteria": {
+      "has_item": "2024-01-17 18:11:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-01-13 17:58:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/isotope_separator": {
+    "criteria": {
+      "has_item": "2024-01-16 22:48:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:33:06 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2024-01-19 16:44:28 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/arctic_armor_set": {
+    "criteria": {
+      "ingredient": "2024-03-03 20:08:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_chemthrower": {
+    "criteria": {
+      "craft_hammer": "2024-01-09 20:30:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2024-01-09 21:54:30 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/ironwood_armor_set": {
+    "criteria": {
+      "helmet": "2024-01-17 18:12:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/minotaur": {
+    "criteria": {
+      "hurt": "2024-01-19 16:59:50 +0300"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-01-09 17:20:53 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2024-01-09 21:29:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-01-17 21:39:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-01-08 04:55:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-01-08 04:10:37 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/compass": {
+    "criteria": {
+      "compass": "2024-01-08 15:26:47 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/speaker": {
+    "criteria": {
+      "has_advanced": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_palm": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-01-08 04:44:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:33:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-01-14 20:12:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_gold_block": "2024-01-08 14:43:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2024-01-08 14:00:07 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2024-01-08 05:27:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-01-07 21:28:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_weapon_craft": {
+    "criteria": {
+      "terrablade": "2024-03-06 02:44:06 +0300"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/electrifying": {
+    "criteria": {
+      "warp": "2024-03-06 03:08:20 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/redcap_sapper": {
+    "criteria": {
+      "hurt_by_indirect": "2024-03-10 13:07:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_lapis": "2024-01-08 04:56:25 +0300"
+    },
+    "done": true
+  },
+  "botania:challenge/king_key": {
+    "criteria": {
+      "key": "2024-03-08 00:43:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2024-01-08 04:56:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-01-08 04:55:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-01-14 02:13:40 +0300"
+    },
+    "done": true
+  },
+  "astralsorcery:celestial_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2024-03-07 20:38:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-01-13 18:56:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-01-09 21:54:30 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/snowy_forest": {
+    "criteria": {
+      "discover": "2024-03-09 21:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_pine": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2024-03-03 16:07:44 +0300"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-01-09 17:01:45 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/chemical_reactor": {
+    "criteria": {
+      "has_item": "2024-01-17 18:01:18 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/dark_forest_center": {
+    "criteria": {
+      "discover": "2024-01-19 17:23:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-01-08 03:37:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-01-08 05:53:44 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/ice_bomb": {
+    "criteria": {
+      "ice_bomb": "2024-03-09 21:57:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-01-08 03:43:32 +0300"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pool": "2024-01-14 20:23:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-08 14:43:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2024-01-18 19:33:03 +0300"
+    },
+    "done": true
+  },
+  "enderio:gears/g5_vibrant_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-01-13 18:04:00 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/yeti_armor_set": {
+    "criteria": {
+      "ingredient": "2024-03-09 21:57:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-01-07 21:36:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-01-08 03:37:10 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/helmet_crab": {
+    "criteria": {
+      "hurt_by_indirect": "2024-01-19 17:15:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2024-01-09 23:01:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-01-17 04:43:42 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/fire_swamp": {
+    "criteria": {
+      "discover": "2024-01-19 17:09:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-01-13 20:14:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-01-08 19:47:21 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2024-01-08 03:31:57 +0300",
+      "red_flower": "2024-01-08 03:31:57 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hedge_maze": {
+    "criteria": {
+      "discover": "2024-01-19 19:05:41 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ebony": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_revolver": {
+    "criteria": {
+      "craft_hammer": "2024-01-09 20:30:13 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_tool_set": {
+    "criteria": {
+      "ingredient": "2024-01-19 17:16:02 +0300"
+    },
+    "done": true
+  },
+  "botania:challenge/loki_ring": {
+    "criteria": {
+      "ring": "2024-03-08 00:49:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-01-07 21:29:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-01-08 04:39:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-01-09 17:20:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-01-08 05:10:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-03-06 20:29:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2024-03-03 16:44:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-01-08 20:50:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2024-01-08 04:53:29 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mahogany": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "enderio:gears/g2_stone_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-01-09 17:30:51 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/kobold": {
+    "criteria": {
+      "hurt_by_indirect": "2024-01-19 16:50:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-01-08 04:13:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-01-13 19:11:27 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_meef": "2024-01-19 17:03:12 +0300",
+      "meef_stroganoff": "2024-01-19 17:06:27 +0300",
+      "hydra_chop": "2024-01-19 17:11:52 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-01-08 04:39:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-01-08 19:21:31 +0300"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-01-14 20:08:24 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/lich_tower": {
+    "criteria": {
+      "discover": "2024-01-19 16:55:26 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/arthopods": {
+    "criteria": {
+      "3": "2024-01-19 16:59:15 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_armor_set": {
+    "criteria": {
+      "ingredient": "2024-01-07 21:36:06 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/controller": {
+    "criteria": {
+      "certus": "2024-01-09 21:17:24 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/fuel_reprocessor": {
+    "criteria": {
+      "has_item": "2024-01-17 02:53:13 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:fusion/active_cooler": {
+    "criteria": {
+      "has_item": "2024-03-10 16:00:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-01-08 20:50:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-01-08 04:53:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-01-17 04:43:42 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "hold_manual": "2024-01-08 20:28:26 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/any": {
+    "criteria": {
+      "2": "2024-01-19 16:59:52 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/armors": {
+    "criteria": {
+      "2": "2024-01-07 21:36:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/8_blue": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-01-09 17:55:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2024-01-13 19:20:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_swamp": {
+    "criteria": {
+      "0": "2024-01-19 16:57:42 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/multiblock_metalpress": {
+    "criteria": {
+      "form_blastfurnace": "2024-01-17 17:36:34 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "craft_hammer": "2024-01-07 21:17:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2024-01-16 18:34:12 +0300"
+    },
+    "done": true
+  },
+  "botania:main/spark_craft": {
+    "criteria": {
+      "spark": "2024-03-03 16:36:25 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:hydra_chop": {
+    "criteria": {
+      "hydra_chop": "2024-01-27 19:47:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2024-01-09 17:37:26 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/knight_stronghold": {
+    "criteria": {
+      "discover": "2024-01-19 17:14:35 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2024-01-10 17:29:33 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/deep_mushroom_forest": {
+    "criteria": {
+      "discover": "2024-01-19 19:07:32 +0300"
+    },
+    "done": true
+  },
+  "plethora:recipes/manipulator.mark_1": {
+    "criteria": {
+      "has_computer": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/disk_drive": {
+    "criteria": {
+      "has_advanced": "2024-01-15 19:28:18 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_tool_set": {
+    "criteria": {
+      "ingredient": "2024-01-07 21:36:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-01-13 19:06:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/pattern_terminal": {
+    "criteria": {
+      "certus": "2024-01-13 22:25:52 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/crystallizer": {
+    "criteria": {
+      "has_item": "2024-03-09 21:43:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:33:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-08 19:47:21 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_heater": {
+    "criteria": {
+      "craft_hammer": "2024-01-09 18:18:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-01-07 21:12:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-01-08 04:53:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-01-17 18:09:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-03-08 17:26:35 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+    "criteria": {
+      "entered_water": "2024-01-07 21:21:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-13 18:01:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2024-01-13 19:20:36 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/fluix": {
+    "criteria": {
+      "certus": "2024-01-09 17:49:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-01-08 19:47:21 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_railgun": {
+    "criteria": {
+      "craft_hammer": "2024-01-13 18:36:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2024-01-16 18:34:12 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2024-01-19 19:04:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-01-13 18:56:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_gray_dye_from_clover": {
+    "criteria": {
+      "has_flower": "2024-01-08 04:01:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-03-08 17:26:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2024-01-08 05:08:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-08 19:47:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_chicken": "2024-01-13 20:12:53 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/tools/empty_jar": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2024-01-08 05:53:44 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/bamboo_thatching": {
+    "criteria": {
+      "has_item": "2024-01-13 18:11:26 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:goals/all_filters": {
+    "criteria": {
+      "inv_changed-enderio:item_big_advanced_item_filter2": "2024-11-08 01:04:06 +0300",
+      "inv_changed-enderio:item_advanced_item_filter2": "2024-11-08 00:58:48 +0300"
+    },
+    "done": false
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2024-01-08 04:38:41 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-01-19 16:56:19 +0300",
+      "yeti": "2024-03-09 21:57:02 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/bowl_of_rice": {
+    "criteria": {
+      "has_bowl": "2024-01-08 14:41:04 +0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2024-11-05 23:33:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-01-07 21:36:57 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/slime_beetle": {
+    "criteria": {
+      "hurt": "2024-01-19 17:19:17 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hydra_lair": {
+    "criteria": {
+      "discover": "2024-01-19 17:09:42 +0300"
+    },
+    "done": true
+  },
+  "rftools:root": {
+    "criteria": {
+      "has_machine_frame": "2024-01-13 21:10:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-01-13 18:02:05 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/ingot_former": {
+    "criteria": {
+      "has_item": "2024-03-09 21:45:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-01-08 04:30:54 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-20 03:19:14 +0300"
+    },
+    "done": true
+  },
+  "enderio:start/2_simple_chassis_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-01-25 20:32:48 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_lich": "2024-01-19 16:56:19 +0300",
+      "kill_naga": "2024-01-19 16:53:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2024-01-08 21:01:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2024-05-24 21:03:39 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_highlands": {
+    "criteria": {
+      "discover": "2024-01-19 16:44:35 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_skyhook": {
+    "criteria": {
+      "craft_hammer": "2024-01-14 21:18:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-01-08 04:44:21 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network2": {
+    "criteria": {
+      "cable": "2024-01-17 17:02:18 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network1": {
+    "criteria": {
+      "cable": "2024-01-13 20:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2024-01-07 21:28:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2024-01-08 14:00:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/tools/biome_finder": {
+    "criteria": {
+      "has_artifact": "2024-01-17 18:09:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-01-08 03:53:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-01-13 23:26:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2024-01-08 15:34:05 +0300"
+    },
+    "done": true
+  }
+}
